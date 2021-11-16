@@ -37,5 +37,5 @@ curl --location --request PUT 'http://localhost:8080/modifyProfile?email=santidi
 }'
 ```
 
-## Stetimate time to complete
+## Estimated time to complete
 About 2 entire days.
